@@ -1,7 +1,17 @@
 ### Hi there 👋
+- I've been working as a Go developer for the last 2 years
+- Also I have 5+ years of working experience as a backend developer
+
+
+### 🌱 my latest projects
+
+- [calendar](https://github.com/SaenkoDmitry/calendar) - testing task for hiring in company X, written in a week (more precisely, several nights)
+- [go-training](https://github.com/SaenkoDmitry/go-training) - project for learning and thinking about algorithms & data structures
+- [adv-store](https://github.com/SaenkoDmitry/adv-app) - pet project with functionality of simple advertisement store
+
+**P.S.**: you can find my resume in [google docs](https://docs.google.com/document/d/1-jesZbzQwrMMGQ_1b5k-FzLp85yn1xHf6IkZDMh73A8)
 
 <!--
-**SaenkoDmitry/SaenkoDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
