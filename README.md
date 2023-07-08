@@ -1,9 +1,9 @@
-### Hi there 👋
+### 👋 Hi there
 - I've been working as a Go developer for the last 2 years
 - Also I have 5+ years of working experience as a backend developer
 
 
-### 🌱 my latest projects
+### 🌱 My latest projects
 
 - [calendar](https://github.com/SaenkoDmitry/calendar) - testing task for hiring in company X, written in a week (more precisely, several nights)
 - [go-training](https://github.com/SaenkoDmitry/go-training) - project for learning and thinking about algorithms & data structures
