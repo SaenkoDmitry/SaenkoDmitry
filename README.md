@@ -5,7 +5,7 @@
 
 ### 🌱 My latest projects
 
-- [calendar](https://github.com/SaenkoDmitry/calendar) - testing task for hiring in company X, written in a week (more precisely, several nights)
+- [calendar](https://github.com/SaenkoDmitry/calendar) - testing task for hiring in company X
 - [go-training](https://github.com/SaenkoDmitry/go-training) - project for learning and thinking about algorithms & data structures
 - [adv-store](https://github.com/SaenkoDmitry/adv-app) - pet project with functionality of simple advertisement store
 
