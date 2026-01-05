@@ -5,6 +5,7 @@
 
 ### 🌱 My latest projects
 
+- [training-tg-bot](https://github.com/SaenkoDmitry/training-tg-bot) - telegram bot for recording the training process
 - [financial-tg-bot](https://github.com/SaenkoDmitry/financial-tg-bot) - telegram bot for helping in daily routine about financial expenses
 - [calendar](https://github.com/SaenkoDmitry/calendar) - testing task for hiring in company X
 - [go-training](https://github.com/SaenkoDmitry/go-training) - about algorithms & data structures & interesting tasks
